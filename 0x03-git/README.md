@@ -1,1 +1,1 @@
-My first git directory readme
+My first git tutorial projects i will keep working on
